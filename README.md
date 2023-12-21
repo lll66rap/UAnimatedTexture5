@@ -5,8 +5,6 @@ This plugin allows you to import animated pictures into your Unreal Engine 5 pro
 - [x] Support .GIF files
 - [x] Support .Webp files
 
-![DEMO](./Docs/images/demo.png)
-
 ## Features
 
 - [x] Import Animated GIF/Webp as a Texture, supports animation, transparency, interlace, etc
@@ -20,14 +18,3 @@ This plugin allows you to import animated pictures into your Unreal Engine 5 pro
 The plugin should work on all platforms the Unreal Engine 5 supports, but only been tested on the following platform:
 - [x] Windows 64
 - [x] MacOS
-
-## Screenshots
-
-![Material DEMO](./Docs/images/mtl.png)
-
-![UMG DEMO](./Docs/images/umg.png)
-
-![Playback API DEMO](./Docs/images/api.png)
-
-![Runtime Load Gif](./Docs/images/runtime.png)
-
